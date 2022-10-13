@@ -33,11 +33,11 @@ body {
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 280px;
+    width: 282px;
     height: 130px;
     background-image: url(../img/dino.gif);
     background-repeat: no-repeat;
-    background-size: 280px;
+    background-size: 282px;
     transform: scaleX(-1);
 }
 
@@ -64,7 +64,7 @@ body {
 }
 
 .jump {
-    animation: jump 1.1s linear;
+    animation: jump 1s linear;
 }
 
 @keyframes jump {
